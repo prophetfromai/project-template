@@ -20,10 +20,12 @@ npm run deploy     # deploy to Firebase
 
 **Reading:** Scan `monologue.md` at the start of strategic or directional conversations.
 
-**Writing:** When someone raises an idea, changes direction, or expresses intent — append a one-liner to the top of the log:
+**Writing:** When someone raises an idea, changes direction, or expresses intent — append a one-liner to the top of the Log section:
 ```
 - [YYYY-MM-DD] Name: the gist in very few words — theme/feature
 ```
+
+**Compaction:** The Log holds max ~20 entries. When full, distill the oldest entries into the Themes section (a few words each, merge with existing themes), then remove them from the Log. This keeps the file bounded forever.
 
 Only capture signal: ideas, shifts in direction, decisions. Skip routine implementation chatter.
 
